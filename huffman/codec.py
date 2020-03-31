@@ -175,4 +175,4 @@ class Codec():
                 k += 1
             text_decoded += leaf[0]
 
-        return int(text_decoded)
+        return text_decoded
